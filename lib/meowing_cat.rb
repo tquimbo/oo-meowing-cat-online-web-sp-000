@@ -7,6 +7,6 @@ def meow
 end
 
 maru = Cat.name
-maru.meow
+
 
 end
