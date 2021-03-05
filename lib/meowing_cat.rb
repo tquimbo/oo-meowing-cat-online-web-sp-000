@@ -6,7 +6,7 @@ def meow
   puts "meow!"
 end
 
-maru = Cat.name
+
 
 
 end
