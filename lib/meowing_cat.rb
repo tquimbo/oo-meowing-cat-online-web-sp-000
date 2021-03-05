@@ -2,5 +2,11 @@
 class Cat
  attr_accessor :name
 
+def meow
+  puts "meow!"
+end
+
+maru = Cat.name
+maru.meow
 
 end
